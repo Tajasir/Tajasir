@@ -1,4 +1,5 @@
 🔥 Hi, I'm Tajasir — Future Cybersecurity Engineer
+<img src="https://tryhackme-badges.s3.amazonaws.com/TAJASIR.png" alt="TryHackMe Badge">
 I'm currently learning and building skills in Web Application Security, Bug Bounty, and Ethical Hacking.
 🚀 What I'm focusing on right now
 📌 Web Security fundamentals (PortSwigger Academy)
@@ -22,4 +23,4 @@ Documenting my hacking journey
 📫 How to reach me
 Email (tajasira@gmail.com)
 Discord(if you want to add)
-<img src="https://tryhackme-badges.s3.amazonaws.com/TAJASIR.png" alt="TryHackMe Badge">
+
