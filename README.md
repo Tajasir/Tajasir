@@ -1,5 +1,4 @@
 🔥 Hi, I'm Tajasir — Future Cybersecurity Engineer
-<img src="https://tryhackme-badges.s3.amazonaws.com/TAJASIR.png" alt="TryHackMe Badge">
 I'm currently learning and building skills in Web Application Security, Bug Bounty, and Ethical Hacking.
 🚀 What I'm focusing on right now
 📌 Web Security fundamentals (PortSwigger Academy)
@@ -8,7 +7,7 @@ I'm currently learning and building skills in Web Application Security, Bug Boun
 🤖 Bash automation
 🐍 Python scripting for hackers (payloads + automation)
 🛠️ Popular tools (Burp Suite, Nmap, Nikto, ffuf, Gobuster, etc.)
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/TAJASIR.png" alt="TryHackMe Badge">
 🔥 Future Roadmap
 📡 Advanced penetration testing
 🔐 Cybersecurity certifications (Security+, CEH, etc.)
