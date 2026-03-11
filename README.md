@@ -22,3 +22,4 @@ Documenting my hacking journey
 📫 How to reach me
 Email (tajasira@gmail.com)
 Discord(if you want to add)
+<img src="https://tryhackme-badges.s3.amazonaws.com/TAJASIR.png" alt="TryHackMe Badge">
