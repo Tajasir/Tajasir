@@ -1,4 +1,4 @@
-🔥 Hi, I'm Tajasir — Aspiring Cybersecurity Engineer
+🔥 Hi, I'm Tajasir — Aspiring Ethical Hacker
 
 I'm currently learning **Web Application Penetration Testing** and building skills in **DevSecOps**.
 My focus is on finding security vulnerabilities, practicing bug bounty, and learning how to build secure systems using modern DevSecOps practices.
