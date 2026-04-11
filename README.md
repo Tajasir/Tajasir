@@ -11,15 +11,15 @@ Automation & Scripting
 
 Alongside cloud security, I am actively exploring ethical hacking using Kali Linux. I have completed multiple labs on PortSwigger, focusing on real-world web vulnerabilities, including:
 
-SQL Injection
-Authentication Vulnerabilities
-Access Control Issues
-Server-Side Request Forgery (SSRF)
-OS Command Injection
-File Upload Vulnerabilities
-Business Logic Flaws
-Information Disclosure
-Path Traversal
+SQL Injection,
+Authentication Vulnerabilities,
+Access Control Issues,
+Server-Side Request Forgery (SSRF),
+OS Command Injection,
+File Upload Vulnerabilities,
+Business Logic Flaws,
+Information Disclosure,
+Path Traversal,
 
 I am also progressing through TryHackMe and plan to further enhance my practical skills using Hack The Box. Additionally, I am building hands-on experience with essential security tools such as Burp Suite, Nmap, John the Ripper, Wireshark, and Metasploit.
 
