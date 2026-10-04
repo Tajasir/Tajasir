@@ -1,34 +1,5 @@
-🔥 My name is Tajasir, and I am an aspiring Multi-Cloud Security Engineer with a strong focus on building secure, scalable, and automated cloud environments. My journey into cybersecurity is driven by a deep curiosity about how systems operate and how they can be secured against real-world threats.
+Aspiring Multi-Cloud Security Architect focused on building secure, resilient, and well-architected cloud environments across AWS, Azure, and Google Cloud. Hands-on experience with AWS networking, IAM, cloud security, monitoring, troubleshooting, and infrastructure through practical labs and real-world scenarios.
 
-Currently, I am developing my expertise in cloud security, with a solid foundation in networking and Linux (Ubuntu & Kali Linux). I have hands-on experience with Bash automation and am actively expanding my skills in Python and PowerShell to strengthen my scripting and automation capabilities.
+Developing strong supporting expertise in CloudOps, automation, Terraform/IaC, Docker, Kubernetes, Git/CI/CD, DevSecOps, SecOps, and web/API security testing. Building an understanding of solution design, architecture design, security architecture, and how cloud infrastructure, applications, and security controls work together to create secure-by-design environments.
 
-My learning roadmap is structured and practical, covering:
-
-System & Network Security
-Server Management, Firewall Configuration & Active Directory
-Cloud Platforms & Security (AWS & Azure)
-Automation & Scripting
-
-Alongside cloud security, I am actively exploring ethical hacking using Kali Linux. I have completed multiple labs on PortSwigger, focusing on real-world web vulnerabilities, including:
-
-SQL Injection,
-Authentication Vulnerabilities,
-Access Control Issues,
-Server-Side Request Forgery (SSRF),
-OS Command Injection,
-File Upload Vulnerabilities,
-Business Logic Flaws,
-Information Disclosure,
-Path Traversal,
-
-I am also progressing through TryHackMe and plan to further enhance my practical skills using Hack The Box. Additionally, I am building hands-on experience with essential security tools such as Burp Suite, Nmap, John the Ripper, Wireshark, and Metasploit.
-
-Looking ahead, I am focused on expanding my expertise in:
-
-Container Security
-Kubernetes Security
-Infrastructure as Code (Terraform)
-Git & CI/CD Pipeline Security
-
-My ultimate goal is to become a professional Multi-Cloud Security Engineer while maintaining a strong foundation in ethical hacking, aiming to secure modern cloud infrastructures and work in remote, high-impact security roles.
-
+Passionate about cloud security, architecture and design, practical problem-solving, continuous learning, and building secure cloud solutions across multiple cloud platforms.
